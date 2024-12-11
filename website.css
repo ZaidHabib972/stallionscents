@@ -1,0 +1,204 @@
+#perfume{
+    height: 200px;
+    width: 170px;
+    border-radius: 20%;
+}
+
+#headi{
+    margin-left: 200px;
+    margin-top: 10px;
+    
+}
+    
+#one{
+    background-color: black;
+    height: 120px;
+    padding: 10px;
+}
+ul{
+    list-style: none;
+}
+#nav:hover{
+    text-decoration: underline;
+}
+#nav{
+float: left;
+margin-left: 40px;
+color: white;
+margin-top: 45px;
+}
+#navi{
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 25px;
+    width: 25px;
+}
+#logo{
+    height: 100px;
+    width: 120px;
+    margin-left: 10px;
+ }
+ #two{
+    background-image: url(back.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+ }
+ h1{
+    margin-top: 200px;
+    color: black;
+    font-family: sans-serif;
+    font-size: 25px;
+ }
+ h2{
+    color: black;
+ }
+ #Featured{
+    color: black;
+    margin-top: 50px;
+    font-size: 40px;
+    padding: 5px;
+ }
+ #perfumebtn{
+    width: 270px;
+    border: solid;
+ }
+ footer{
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    padding: 50px;
+    line-height: 2;
+    
+}
+#foot{
+    text-align: center;
+    color: white;
+}
+#perfumeprice{
+    text-align: center;
+    margin-left: 100px;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+#toplogo{
+    height: 20px;
+    width: 20px;
+}
+#icons{
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+#banner{
+    background-image: url(logo-black.png);
+    height: 500px;
+    border-radius: 0% 30% 30% 0%;
+}
+#types{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+#four{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#type{
+    font-size: 25px;
+    margin-left: 90px;
+}
+#three{
+    text-align: center;
+}
+label{
+    border: solid;
+
+}
+p{
+    float: left;
+    font-size: 20px;
+}
+input{
+    width: 300px;
+    font-size: 20px;
+}
+#submit{
+    font-size: 20px;
+    background-color: red;
+}
+#footlogo{
+    height: 250px;
+    width: 250px;
+    
+}
+#ouroutlets{
+    font-size: 40px;
+    margin-top: 15px;
+}
+#outletsname{
+    margin-top: 50px;
+}
+#aboutuss{
+    margin-top: 50px;
+    font-size: 40px;
+}
+#note{
+    float: none;
+    margin-bottom: 150px;
+    line-height: 2;
+}
+#contact{
+    float: none;
+}
+#inputname{
+    width: 400px;
+    height: 50px;
+    margin-left: 50px;
+}
+#inputemail{
+    width: 400px;
+    height: 50px;
+    margin-left: 50px;
+
+}
+#inputph{
+    width: 850px;
+    height: 50px;
+    margin-left: 50px;
+    float: none;
+    margin-top: 50px;
+
+}
+textarea{
+    width: 850px;
+    height: 100px;
+    margin-left: 50px;
+    float: none;
+    margin-top: 50px;
+
+}
+#send{
+    height: 50px;
+    float: none;
+    width: 150px;
+    background-color: red;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+#outletsadd{
+    margin-bottom: 150px;
+}
+#termsp{
+    float: none;
+}
+#termh{
+    margin-top: 100px;
+}
+#terms{
+    margin-bottom: 100px;
+}
